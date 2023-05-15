@@ -1,0 +1,1 @@
+/home/vin/base_ws/src/bot/build/bot/ament_cmake_core/botConfig-version.cmake

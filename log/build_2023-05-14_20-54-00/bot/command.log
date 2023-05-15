@@ -1,0 +1,6 @@
+Invoking command in '/home/vin/base_ws/src/bot/build/bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/vin/base_ws/src/bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vin/base_ws/src/bot/install/bot
+Invoked command in '/home/vin/base_ws/src/bot/build/bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/vin/base_ws/src/bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vin/base_ws/src/bot/install/bot
+Invoking command in '/home/vin/base_ws/src/bot/build/bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/vin/base_ws/src/bot/build/bot -- -j4 -l4
+Invoked command in '/home/vin/base_ws/src/bot/build/bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/vin/base_ws/src/bot/build/bot -- -j4 -l4
+Invoking command in '/home/vin/base_ws/src/bot/build/bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/vin/base_ws/src/bot/build/bot
+Invoked command in '/home/vin/base_ws/src/bot/build/bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/vin/base_ws/src/bot/build/bot

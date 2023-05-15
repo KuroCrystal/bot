@@ -1,0 +1,9 @@
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/install/local.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/install.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/list_install_components.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/rebuild_cache.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/edit_cache.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/test.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/install/strip.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/bot_uninstall.dir
+/home/vin/base_ws/src/bot/build/bot/CMakeFiles/uninstall.dir
